@@ -26,6 +26,13 @@ An AI-powered application that allows users to upload a PDF and ask questions ab
 - **Ollama (TinyLlama / Phi-3)** – Local LLM
 
 ---
+## Sample Screen Shots
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/bef437e8-9478-4c30-9027-8ffc3b7e2645" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/49b03f4d-4d4f-456c-bba0-bd627ef70eb2" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/c6a1aa32-81bf-4052-9638-03d0fe0f26b9" />
+
+
+
 
 ## ⚙️ How to Run Locally
 
